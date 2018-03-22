@@ -21,3 +21,5 @@
 [Spatial reasoning in mathematics](https://bib.irb.hr/datoteka/877842.Kovacevic.pdf)
 
 [The Benefits of Playing Video Games](https://web.archive.org/web/20170828193136/http://www2.apa.org:80/pubs/journals/releases/amp-a0034857.pdf)
+
+[A QUESTION OF GENIUS: ARE MEN REALLY SMARTER THAN WOMEN? ](https://web.archive.org/web/20180322184326/http://classes.matthewjbrown.net/teaching-files/svd-phd/2-gender/fausto-sterling.pdf)
