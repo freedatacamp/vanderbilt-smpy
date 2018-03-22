@@ -17,3 +17,5 @@
 [Picture This: Incresing Math and Science Learning by Improving Spatial Thinking](http://www.qwww.spatiallearning.org/publications_pdfs/Newcombe_000.pdf)
 
 [Playing an Action Video Game Reduces Gender Differences in Spatial Cognition](http://www.psych.utoronto.ca/users/spence/Feng,%20Spence,%20&%20Pratt%20(in%20press).pdf)
+
+[Spatial reasoning in mathematics](https://bib.irb.hr/datoteka/877842.Kovacevic.pdf)
