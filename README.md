@@ -19,3 +19,5 @@
 [Playing an Action Video Game Reduces Gender Differences in Spatial Cognition](http://www.psych.utoronto.ca/users/spence/Feng,%20Spence,%20&%20Pratt%20(in%20press).pdf)
 
 [Spatial reasoning in mathematics](https://bib.irb.hr/datoteka/877842.Kovacevic.pdf)
+
+[The Benefits of Playing Video Games](https://web.archive.org/web/20170828193136/http://www2.apa.org:80/pubs/journals/releases/amp-a0034857.pdf)
