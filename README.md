@@ -13,3 +13,5 @@
 [Spatial ability and STEM: A sleeping giant for talent identification and development](https://web.archive.org/web/20180322180810/https://my.vanderbilt.edu/smpy/files/2013/02/Lubinski_2010_spatial.pdf)
 
 [Spatial Ability and G](https://pdfs.semanticscholar.org/5fa3/456fcf0c3f16b4db2b49e10b3443461f2209.pdf)
+
+[Picture This: Incresing Math and Science Learning by Improving Spatial Thinking](http://www.qwww.spatiallearning.org/publications_pdfs/Newcombe_000.pdf)
