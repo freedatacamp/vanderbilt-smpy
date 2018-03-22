@@ -15,3 +15,5 @@
 [Spatial Ability and G](https://pdfs.semanticscholar.org/5fa3/456fcf0c3f16b4db2b49e10b3443461f2209.pdf)
 
 [Picture This: Incresing Math and Science Learning by Improving Spatial Thinking](http://www.qwww.spatiallearning.org/publications_pdfs/Newcombe_000.pdf)
+
+[Playing an Action Video Game Reduces Gender Differences in Spatial Cognition](http://www.psych.utoronto.ca/users/spence/Feng,%20Spence,%20&%20Pratt%20(in%20press).pdf)
